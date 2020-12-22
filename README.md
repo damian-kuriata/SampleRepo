@@ -1,2 +1,2 @@
 # SampleRepo
-Desciprption.
+Readme has been edited.
